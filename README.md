@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,50:2563eb,100:38bdf8&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:020617,45:2563eb,100:38bdf8&section=header" />
 
 <div align="center">
 
@@ -12,20 +12,21 @@ Currently working with **React**, **TypeScript**, **JavaScript**, **Python**, **
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Junior+Software+Engineer;Software+Engineering+Student;React+%7C+TypeScript+%7C+Python+%7C+Django;WordPress+%7C+PHP+%7C+PostgreSQL+%7C+Docker;Building+web+systems%2C+dashboards+and+useful+digital+products" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Junior+Software+Engineer;Software+Engineering+Student;React+%7C+TypeScript+%7C+Python+%7C+Django;WordPress+%7C+PHP+%7C+PostgreSQL+%7C+Docker;Building+web+systems%2C+APIs+and+digital+products" />
 
 <br />
-<br />
 
-<a href="https://github.com/PauloEduardoCoelho?tab=followers">
-  <img src="https://img.shields.io/github/followers/PauloEduardoCoelho?style=for-the-badge&label=Followers&color=2563eb&labelColor=020617" />
+<a href="https://github.com/PauloEduardoCoelho">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://github.com/PauloEduardoCoelho?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-GitHub-38bdf8?style=for-the-badge&labelColor=020617" />
+<a href="https://www.linkedin.com/in/paulo-eduardo-fernandes-de-siqueira-coelho-426594251">
+  <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=PauloEduardoCoelho&style=for-the-badge&color=2563eb&label=Profile+views" />
+<a href="mailto:pauloeduardocoelho610@gmail.com">
+  <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -37,27 +38,67 @@ I'm a Software Engineering student at Universidade de Vassouras and a Junior Sof
 
 My experience includes full-stack development with Python and Django, front-end development with React and TypeScript, institutional website development with WordPress and PHP, and back-end/API work using databases and version control tools.
 
-I enjoy creating solutions that are useful, well structured and easy to maintain. I care about clean UI, responsive layouts, code organization, performance and the experience delivered to the final user.
+I like building solutions that are useful, well structured and easy to maintain. I care about clean interfaces, responsive layouts, code organization, performance and the experience delivered to the final user.
 
 ---
 
-## Professional experience
+## Professional timeline
 
-| Role | Company | Period | Main work |
-| --- | --- | --- | --- |
-| Junior Software Engineer | UBM - Centro Universitário de Barra Mansa | Jul 2025 - Present | Development of new institutional modules and maintenance of previously developed systems using PHP, WordPress, JavaScript, CSS, Git and Xampp. |
-| Full-Stack Developer | Observatório Nacional | Apr 2025 - Dec 2025 | Development of an API based on gravimetric data and a public platform to consume and display this data. |
-| Web Development Intern | UBM - Centro Universitário de Barra Mansa | Jul 2024 - Jul 2025 | Development of the institutional website from scratch until delivery, using PHP, WordPress, Git, Xampp, JavaScript and CSS. |
-| Full-Stack Development Intern | DMS Logistics | Mar 2023 - Sep 2023 | Web development with Python and Django, plus OCR system development using Tesseract and OpenCV. |
-| Front-End Developer | IDE SocialHub | Mar 2023 - Sep 2023 | Development of an inclusive HR platform using JavaScript, TypeScript, React and CSS. |
+### Junior Software Engineer  
+**UBM - Centro Universitário de Barra Mansa**  
+`Jul 2025 - Present`
+
+Development of new institutional modules and maintenance of previously developed systems.
+
+**Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
+
+---
+
+### Full-Stack Developer  
+**Observatório Nacional**  
+`Apr 2025 - Dec 2025`
+
+Development of an API based on gravimetric data and a platform that consumes this API to display data to the public.
+
+**Main technologies:** Python · Django · SQL · Git · JavaScript · CSS
+
+---
+
+### Web Development Intern  
+**UBM - Centro Universitário de Barra Mansa**  
+`Jul 2024 - Jul 2025`
+
+Development of the university's institutional website from scratch until delivery.
+
+**Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
+
+---
+
+### Full-Stack Development Intern  
+**DMS Logistics**  
+`Mar 2023 - Sep 2023`
+
+Web development using Python and Django, plus development of an OCR system with image and document processing.
+
+**Main technologies:** Linux · Python · Django · Tesseract · OpenCV · PostgreSQL · Git · Docker · Bitbucket
+
+---
+
+### Front-End Developer  
+**IDE SocialHub**  
+`Mar 2023 - Sep 2023`
+
+Development of an inclusive HR platform focused on accessibility and usability.
+
+**Main technologies:** JavaScript · TypeScript · React · CSS
 
 ---
 
 ## Education
 
-| Course | Institution | Period |
-| --- | --- | --- |
-| Software Engineering | Universidade de Vassouras | Aug 2022 - Aug 2026 |
+### Software Engineering  
+**Universidade de Vassouras**  
+`Aug 2022 - Aug 2026`
 
 ---
 
@@ -87,68 +128,83 @@ I enjoy creating solutions that are useful, well structured and easy to maintain
 
 ---
 
-## Main skills
-
-| Area | Technologies and tools |
-| --- | --- |
-| Front-end | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Bootstrap |
-| Back-end | Python, Django, PHP, REST APIs |
-| CMS | WordPress |
-| Database | PostgreSQL, SQL, MongoDB |
-| Tools | Git, Docker, Bitbucket, Xampp, Linux |
-| Other areas | OCR, OpenCV, Tesseract, dashboards, institutional platforms |
-
----
-
-## What I usually work on
-
-| Focus | Description |
-| --- | --- |
-| Web systems | Development of web platforms with organized structure, responsive layout and maintainable code. |
-| Institutional websites | Professional websites with content management, performance, usability and long-term maintenance in mind. |
-| APIs and data | Back-end services, database integration and data delivery through structured APIs. |
-| Dashboards | Interfaces focused on KPIs, metrics, charts and business-oriented analysis. |
-| Automation | Tools and workflows that reduce repetitive tasks and improve operational efficiency. |
-
----
-
-## GitHub overview
+## Core skills
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PauloEduardoCoelho&show_icons=true&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=38bdf8&text_color=e5e7eb" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEduardoCoelho&layout=compact&theme=github_dark&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=e5e7eb" />
+<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Django-020617?style=for-the-badge&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/WordPress-020617?style=for-the-badge&logo=wordpress&logoColor=21759B" />
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" />
 
 </div>
 
-<br />
+---
 
-<div align="center">
+## Areas I work with
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PauloEduardoCoelho&theme=github-dark-blue&hide_border=true&background=020617&stroke=38bdf8&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8" />
+> ### Web Systems
+> Development of structured web applications with responsive layouts, reusable components and maintainable code.
 
-</div>
+> ### Institutional Platforms
+> Creation and maintenance of professional websites and institutional modules using WordPress, PHP, JavaScript and CSS.
+
+> ### APIs and Data
+> Back-end development with Python, Django, SQL and PostgreSQL, focused on data organization, delivery and integration.
+
+> ### Dashboards and Interfaces
+> Building interfaces focused on clarity, usability, metrics, visual consistency and decision-making.
+
+> ### Automation and Processing
+> Development of tools and workflows to automate repetitive tasks, including OCR solutions with Tesseract and OpenCV.
 
 ---
 
 ## Current focus
 
-| Studying and improving | Why it matters |
-| --- | --- |
-| React and TypeScript | To build scalable, reusable and safer front-end applications. |
-| Django and APIs | To create solid back-end structures and reliable data flows. |
-| WordPress and PHP | To develop and maintain institutional systems with content management. |
-| UI consistency | To deliver cleaner, more professional and more intuitive interfaces. |
-| Dashboards and data visualization | To transform data into useful insights and better decision-making tools. |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Scalable_React_Apps-2563eb?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Clean_TypeScript-38bdf8?style=for-the-badge&labelColor=020617&color=38bdf8" />
+<img src="https://img.shields.io/badge/Django_APIs-0f172a?style=for-the-badge&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/WordPress_Development-2563eb?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/UI_Consistency-38bdf8?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/Data_Visualization-0f172a?style=for-the-badge" />
+
+</div>
+
+<br />
+
+I'm currently improving my skills in scalable front-end architecture, API development, dashboard experiences, UI consistency and maintainable project structures.
 
 ---
 
-## Activity
+## Professional mindset
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PauloEduardoCoelho&bg_color=020617&color=e5e7eb&line=38bdf8&point=2563eb&area=true&hide_border=true" />
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Clean interfaces</h3>
+      <p>Layouts that are modern, responsive and easy to use.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Organized code</h3>
+      <p>Readable structure, reusable components and maintainable solutions.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Real impact</h3>
+      <p>Projects focused on solving practical problems and improving workflows.</p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
