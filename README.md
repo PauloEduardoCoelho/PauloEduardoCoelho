@@ -4,16 +4,19 @@
 
 # Paulo Eduardo Coelho
 
-### Full Stack Developer · Junior Software Engineer · Software Engineering Student
+### Software Engineer · Full Stack Developer · Web Solutions Builder
 
 I build modern web solutions with clean interfaces, organized code and a strong focus on real-world use.
+
+Graduated in **Software Engineering** from **Universidade de Vassouras** in **August 2026**.
 
 Currently working with **React**, **TypeScript**, **JavaScript**, **Python**, **Django**, **PHP**, **WordPress**, **PostgreSQL**, **Git** and **Docker**.
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Junior+Software+Engineer;Software+Engineering+Student;React+%7C+TypeScript+%7C+Python+%7C+Django;WordPress+%7C+PHP+%7C+PostgreSQL+%7C+Docker;Building+web+systems%2C+APIs+and+digital+products" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python+%7C+Django;WordPress+%7C+PHP+%7C+PostgreSQL+%7C+Docker;Building+web+systems%2C+APIs+and+digital+products" />
 
+<br />
 <br />
 
 <a href="https://github.com/PauloEduardoCoelho">
@@ -34,7 +37,7 @@ Currently working with **React**, **TypeScript**, **JavaScript**, **Python**, **
 
 ## About me
 
-I'm a Software Engineering student at Universidade de Vassouras and a Junior Software Engineer focused on building web systems, institutional platforms, APIs, dashboards and automation tools.
+I'm a Software Engineer and Full Stack Developer focused on building web systems, institutional platforms, APIs, dashboards and automation tools.
 
 My experience includes full-stack development with Python and Django, front-end development with React and TypeScript, institutional website development with WordPress and PHP, and back-end/API work using databases and version control tools.
 
@@ -42,63 +45,63 @@ I like building solutions that are useful, well structured and easy to maintain.
 
 ---
 
-## Professional timeline
+## Professional experience
 
-### Junior Software Engineer  
-**UBM - Centro Universitário de Barra Mansa**  
-`Jul 2025 - Present`
+> ### Junior Software Engineer  
+> **UBM - Centro Universitário de Barra Mansa**  
+> `Jul 2025 - Present`  
+>
+> Development of new institutional modules and maintenance of previously developed systems.  
+>
+> **Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
 
-Development of new institutional modules and maintenance of previously developed systems.
+<br />
 
-**Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
+> ### Full-Stack Developer  
+> **Observatório Nacional**  
+> `Apr 2025 - Dec 2025`  
+>
+> Development of an API based on gravimetric data and a platform that consumes this API to display data to the public.  
+>
+> **Main technologies:** Python · Django · SQL · Git · JavaScript · CSS
 
----
+<br />
 
-### Full-Stack Developer  
-**Observatório Nacional**  
-`Apr 2025 - Dec 2025`
+> ### Web Development Intern  
+> **UBM - Centro Universitário de Barra Mansa**  
+> `Jul 2024 - Jul 2025`  
+>
+> Development of the university's institutional website from scratch until delivery.  
+>
+> **Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
 
-Development of an API based on gravimetric data and a platform that consumes this API to display data to the public.
+<br />
 
-**Main technologies:** Python · Django · SQL · Git · JavaScript · CSS
+> ### Full-Stack Development Intern  
+> **DMS Logistics**  
+> `Mar 2023 - Sep 2023`  
+>
+> Web development using Python and Django, plus development of an OCR system with image and document processing.  
+>
+> **Main technologies:** Linux · Python · Django · Tesseract · OpenCV · PostgreSQL · Git · Docker · Bitbucket
 
----
+<br />
 
-### Web Development Intern  
-**UBM - Centro Universitário de Barra Mansa**  
-`Jul 2024 - Jul 2025`
-
-Development of the university's institutional website from scratch until delivery.
-
-**Main technologies:** PHP · WordPress · Git · Xampp · JavaScript · CSS
-
----
-
-### Full-Stack Development Intern  
-**DMS Logistics**  
-`Mar 2023 - Sep 2023`
-
-Web development using Python and Django, plus development of an OCR system with image and document processing.
-
-**Main technologies:** Linux · Python · Django · Tesseract · OpenCV · PostgreSQL · Git · Docker · Bitbucket
-
----
-
-### Front-End Developer  
-**IDE SocialHub**  
-`Mar 2023 - Sep 2023`
-
-Development of an inclusive HR platform focused on accessibility and usability.
-
-**Main technologies:** JavaScript · TypeScript · React · CSS
+> ### Front-End Developer  
+> **IDE SocialHub**  
+> `Mar 2023 - Sep 2023`  
+>
+> Development of an inclusive HR platform focused on accessibility and usability.  
+>
+> **Main technologies:** JavaScript · TypeScript · React · CSS
 
 ---
 
 ## Education
 
-### Software Engineering  
-**Universidade de Vassouras**  
-`Aug 2022 - Aug 2026`
+> ### Software Engineering  
+> **Universidade de Vassouras**  
+> `Graduated in August 2026`
 
 ---
 
@@ -132,37 +135,71 @@ Development of an inclusive HR platform focused on accessibility and usability.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/React-020617?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Django-020617?style=for-the-badge&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/WordPress-020617?style=for-the-badge&logo=wordpress&logoColor=21759B" />
-<img src="https://img.shields.io/badge/PostgreSQL-020617?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=2496ED" />
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/Full--Stack_Development-020617?style=for-the-badge&logo=codefactor&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Responsive_UI-020617?style=for-the-badge&logo=figma&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/API_Development-020617?style=for-the-badge&logo=fastapi&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Dashboard_Design-020617?style=for-the-badge&logo=googleanalytics&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/WordPress_Development-020617?style=for-the-badge&logo=wordpress&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/OCR_%26_Automation-020617?style=for-the-badge&logo=python&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Database_Modeling-020617?style=for-the-badge&logo=postgresql&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Git_Workflow-020617?style=for-the-badge&logo=git&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/Clean_Code-020617?style=for-the-badge&logo=clean&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/English_C1-020617?style=for-the-badge&logo=googletranslate&logoColor=38bdf8" />
 
 </div>
 
 ---
 
-## Areas I work with
+## What I usually work on
 
-> ### Web Systems
-> Development of structured web applications with responsive layouts, reusable components and maintainable code.
+<div align="center">
 
-> ### Institutional Platforms
-> Creation and maintenance of professional websites and institutional modules using WordPress, PHP, JavaScript and CSS.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Web Systems</h3>
+      <p>
+        Development of structured web applications with responsive layouts, reusable components and maintainable code.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Institutional Platforms</h3>
+      <p>
+        Creation and maintenance of professional websites and institutional modules using WordPress, PHP, JavaScript and CSS.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>APIs and Data</h3>
+      <p>
+        Back-end development with Python, Django, SQL and PostgreSQL, focused on data organization, delivery and integration.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Dashboards and Interfaces</h3>
+      <p>
+        Building interfaces focused on clarity, usability, metrics, visual consistency and decision-making.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Automation and Processing</h3>
+      <p>
+        Development of tools and workflows to automate repetitive tasks, including OCR solutions with Tesseract and OpenCV.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Product-Oriented Development</h3>
+      <p>
+        Building solutions with attention to usability, maintainability, scalability and real business needs.
+      </p>
+    </td>
+  </tr>
+</table>
 
-> ### APIs and Data
-> Back-end development with Python, Django, SQL and PostgreSQL, focused on data organization, delivery and integration.
-
-> ### Dashboards and Interfaces
-> Building interfaces focused on clarity, usability, metrics, visual consistency and decision-making.
-
-> ### Automation and Processing
-> Development of tools and workflows to automate repetitive tasks, including OCR solutions with Tesseract and OpenCV.
+</div>
 
 ---
 
@@ -191,15 +228,15 @@ I'm currently improving my skills in scalable front-end architecture, API develo
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h3>Clean interfaces</h3>
       <p>Layouts that are modern, responsive and easy to use.</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h3>Organized code</h3>
       <p>Readable structure, reusable components and maintainable solutions.</p>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" valign="top">
       <h3>Real impact</h3>
       <p>Projects focused on solving practical problems and improving workflows.</p>
     </td>
