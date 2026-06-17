@@ -49,7 +49,7 @@ I like building solutions that are useful, well structured and easy to maintain.
 
 > ### Junior Software Engineer  
 > **UBM - Centro Universitário de Barra Mansa**  
-> `Jul 2025 - Present`  
+> `Jul 2025 - Jul 2026`  
 >
 > Development of new institutional modules and maintenance of previously developed systems.  
 >
