@@ -8,7 +8,7 @@
 
 I build modern web solutions with clean interfaces, organized code and a strong focus on real-world use.
 
-Graduated in **Software Engineering** from **Universidade de Vassouras** in **August 2026**.
+Graduated in **Software Engineering** from **Universidade de Vassouras** in **July 2026**.
 
 Currently working with **React**, **TypeScript**, **JavaScript**, **Python**, **Django**, **PHP**, **WordPress**, **PostgreSQL**, **Git** and **Docker**.
 
