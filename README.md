@@ -101,7 +101,7 @@ I like building solutions that are useful, well structured and easy to maintain.
 
 > ### Software Engineering  
 > **Universidade de Vassouras**  
-> `Graduated in August 2026`
+> `Graduated in July 2026`
 
 ---
 
